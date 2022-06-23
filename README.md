@@ -1,2 +1,2 @@
 # javascript-Basic-Calc
-This is a basic Javascript Calculator
+This is a basic Calculator built using Javascript
